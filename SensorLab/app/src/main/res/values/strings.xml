@@ -1,7 +1,13 @@
 <resources>
     <string name="app_name">SensorLab</string>
     <string name="placeholder">---</string>
-    <string name="gravityX">Gravity X: %1$.1f m/s^2</string>
-    <string name="gravityY">Gravity Y: %1$.1f m/s^2</string>
-    <string name="gravityZ">Gravity Z: %1$.1f m/s^2</string>
+    <string name="gravityX">Gravity X: %1$.2f m/s^2</string>
+    <string name="gravityY">Gravity Y: %1$.2f m/s^2</string>
+    <string name="gravityZ">Gravity Z: %1$.2f m/s^2</string>
+    <string name="ambientTemp">Ambient Temp: %1$.2f °C</string>
+    <string name="ambientLight">Ambient Light: %1$.2f lx</string>
+    <string name="ambientPressure">Ambient Pressure: %1$.2f hPa</string>
+    <string name="ambientRelHumidity">Ambient Relative Humidity: %1$.2f %%</string>
+    <string name="steps">Steps: %1$.2f steps</string>
+    <string name="proximity">Proximity: %1$.2f cm</string>
 </resources>

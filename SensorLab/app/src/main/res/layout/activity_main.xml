@@ -34,5 +34,49 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/placeholder"
             android:id="@+id/gravityZ" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/placeholder"
+            android:id="@+id/proximity" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/placeholder"
+            android:id="@+id/steps" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/placeholder"
+            android:id="@+id/ambientTemp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/placeholder"
+            android:id="@+id/ambientLight" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/placeholder"
+            android:id="@+id/ambientPressure" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/placeholder"
+            android:id="@+id/ambientRelHumidity" />
+
     </LinearLayout>
+
 </RelativeLayout>
