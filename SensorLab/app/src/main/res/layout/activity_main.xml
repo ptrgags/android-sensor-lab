@@ -19,20 +19,20 @@
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/placeholder"
-            android:id="@+id/accelX" />
+            android:id="@+id/gravityX" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/placeholder"
-            android:id="@+id/accelY" />
+            android:id="@+id/gravityY" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:text="@string/placeholder"
-            android:id="@+id/accelZ" />
+            android:id="@+id/gravityZ" />
     </LinearLayout>
 </RelativeLayout>

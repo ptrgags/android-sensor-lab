@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">SensorLab</string>
     <string name="placeholder">---</string>
+    <string name="gravityX">Gravity X: %1$.1f m/s^2</string>
+    <string name="gravityY">Gravity Y: %1$.1f m/s^2</string>
+    <string name="gravityZ">Gravity Z: %1$.1f m/s^2</string>
 </resources>
